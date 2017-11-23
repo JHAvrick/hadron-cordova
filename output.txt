@@ -1,0 +1,85 @@
+ANDROID_HOME=C:\Android\sdk
+JAVA_HOME=C:\Program Files\java\jdk1.8.0_131
+Subproject Path: CordovaLib
+The Task.leftShift(Closure) method has been deprecated and is scheduled to be removed in Gradle 5.0. Please use Task.doLast(Action) instead.
+	at build_2ztooud2s5nx5dvt8c66vap9v.run(C:\Users\Cloud Strife\Desktop\hadron-cordova\platforms\android\build.gradle:137)
+The JavaCompile.setDependencyCacheDir() method has been deprecated and is scheduled to be removed in Gradle 4.0.
+Incremental java compilation is an incubating feature.
+The TaskInputs.source(Object) method has been deprecated and is scheduled to be removed in Gradle 4.0. Please use TaskInputs.file(Object).skipWhenEmpty() instead.
+:preBuild UP-TO-DATE
+:preDebugBuild UP-TO-DATE
+:checkDebugManifest
+:CordovaLib:preBuild UP-TO-DATE
+:CordovaLib:preDebugBuild UP-TO-DATE
+:CordovaLib:checkDebugManifest
+:CordovaLib:prepareDebugDependencies
+:CordovaLib:compileDebugAidl UP-TO-DATE
+:CordovaLib:compileDebugNdk UP-TO-DATE
+:CordovaLib:compileLint UP-TO-DATE
+:CordovaLib:copyDebugLint UP-TO-DATE
+:CordovaLib:mergeDebugShaders UP-TO-DATE
+:CordovaLib:compileDebugShaders UP-TO-DATE
+:CordovaLib:generateDebugAssets UP-TO-DATE
+:CordovaLib:mergeDebugAssets UP-TO-DATE
+:CordovaLib:mergeDebugProguardFiles UP-TO-DATE
+:CordovaLib:packageDebugRenderscript UP-TO-DATE
+:CordovaLib:compileDebugRenderscript UP-TO-DATE
+:CordovaLib:generateDebugResValues UP-TO-DATE
+:CordovaLib:generateDebugResources UP-TO-DATE
+:CordovaLib:packageDebugResources UP-TO-DATE
+:CordovaLib:processDebugManifest UP-TO-DATE
+:CordovaLib:generateDebugBuildConfig UP-TO-DATE
+:CordovaLib:processDebugResources UP-TO-DATE
+:CordovaLib:generateDebugSources UP-TO-DATE
+:CordovaLib:incrementalDebugJavaCompilationSafeguard UP-TO-DATE
+:CordovaLib:compileDebugJavaWithJavac UP-TO-DATE
+:CordovaLib:processDebugJavaRes UP-TO-DATE
+:CordovaLib:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:CordovaLib:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+:CordovaLib:mergeDebugJniLibFolders UP-TO-DATE
+:CordovaLib:transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
+:CordovaLib:transformNative_libsWithSyncJniLibsForDebug UP-TO-DATE
+:CordovaLib:bundleDebug UP-TO-DATE
+:prepareOrgApacheCordovaCordovaLib623DebugLibrary UP-TO-DATE
+:prepareDebugDependencies
+:compileDebugAidl UP-TO-DATE
+:compileDebugRenderscript UP-TO-DATE
+:generateDebugBuildConfig UP-TO-DATE
+:generateDebugResValues UP-TO-DATE
+:generateDebugResources UP-TO-DATE
+:mergeDebugResources UP-TO-DATE
+:processDebugManifest UP-TO-DATE
+:processDebugResources UP-TO-DATE
+:generateDebugSources UP-TO-DATE
+:incrementalDebugJavaCompilationSafeguard UP-TO-DATE
+:compileDebugJavaWithJavac UP-TO-DATE
+:compileDebugNdk UP-TO-DATE
+:compileDebugSources UP-TO-DATE
+:mergeDebugShaders UP-TO-DATE
+:compileDebugShaders UP-TO-DATE
+:generateDebugAssets UP-TO-DATE
+:mergeDebugAssets
+:transformClassesWithDexForDebug UP-TO-DATE
+:mergeDebugJniLibFolders UP-TO-DATE
+:transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
+:processDebugJavaRes UP-TO-DATE
+:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:validateSigningDebug
+:packageDebug
+:assembleDebug
+:cdvBuildDebug
+
+BUILD SUCCESSFUL
+
+Total time: 18.299 secs
+Built the following apk(s): 
+	C:/Users/Cloud Strife/Desktop/hadron-cordova/platforms/android/build/outputs/apk/android-debug.apk
+ANDROID_HOME=C:\Android\sdk
+JAVA_HOME=C:\Program Files\java\jdk1.8.0_131
+No target specified, deploying to device 'ae6fea8d'.
+Skipping build...
+Built the following apk(s): 
+	C:/Users/Cloud Strife/Desktop/hadron-cordova/platforms/android/build/outputs/apk/android-debug.apk
+Using apk: C:/Users/Cloud Strife/Desktop/hadron-cordova/platforms/android/build/outputs/apk/android-debug.apk
+Package name: com.jha.tests
+LAUNCH SUCCESS

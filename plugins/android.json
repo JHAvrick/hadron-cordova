@@ -7,7 +7,7 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-plugin-device": {
             "PACKAGE_NAME": "com.jha.tests"
         },
         "cordova-plugin-fullscreen": {
@@ -16,7 +16,7 @@
         "cordova-plugin-nativeaudio": {
             "PACKAGE_NAME": "com.jha.tests"
         },
-        "cordova-plugin-device": {
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.jha.tests"
         }
     },
